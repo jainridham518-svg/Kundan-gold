@@ -1,0 +1,6 @@
+{
+  "name": "Kundan Gold",
+  "description": "Official catalogue and enquiry website for Kundan Gold, a family-owned jewellery shop in Kalyan West offering hallmarked gold and silver jewellery, custom craftsmanship, and repair services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
