@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+# Kundan Gold Kalyan West - Robots.txt
+# Update sitemap location once your official custom domain is connected
+Sitemap: /sitemap.xml
